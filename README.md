@@ -36,6 +36,11 @@ This project applies Exploratory Data Analysis (EDA) techniques to a banking dat
 - Income Bands: Distribution across low, mid, and high-income brackets.
 - Categorical Counts: Distribution of risk weights, fee types, and loyalty groups.
 - Numerical Summary: Mean, median, standard deviation of financial attributes.
+## 🔍 Key Findings from Heatmap
+- `Loan Amount` is highly correlated with `Total Income` (r = 0.82)
+- `Credit Score` shows a negative correlation with `Risk Weight`, suggesting higher risk with lower scores
+- Weak correlation between `Age` and `Loan Default` indicates age is not a strong predictor alone
+
 
   ### Limitations
  - Dataset may contain biases (e.g., underrepresented demographics).
@@ -53,6 +58,8 @@ This project applies Exploratory Data Analysis (EDA) techniques to a banking dat
 
 ### Conclusion
 This project lays the foundation for risk profiling in banking by analyzing customer data. It uncovers trends that can be used to improve lending strategies and enhance credit risk assessment.
+
+
 
 
 
