@@ -1,6 +1,5 @@
 # Project Overview
-This project applies Exploratory Data Analysis (EDA) techniques to a banking dataset to understand customer demographics, financial behavior, and risk-related features. It supports data-driven decisions in credit risk management.
-
+I applied Exploratory Data Analysis (EDA) on a banking dataset to uncover insights into customer demographics, financial behavior, and risk factors, supporting data-driven decisions in credit risk management.
 ## Problem Statement
 - Develop a deep understanding of risk analytics in banking. The goal is to use customer profile data to:
 - Analyze financial behavior.
